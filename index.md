@@ -14,14 +14,9 @@
       <a href="#portfolio">Portfolio</a>
       <a href="#contact">Contact</a>
     </nav>
-    <div class="content-wrap">
-      <img class="profile-image col-narrow" src="images/moi.jpeg" alt="Stacie McKee">
-      <div class="col-wide">
+      <img class="profile-image" src="images/moi.jpeg" alt="Stacie McKee">
         <h1>Stacie McKee</h1>
         <h2>Technical Writer</h2>
-        <p>I share excerpted, non-confidential samples due to non-disclosure restrictions. </p>
-      </div>
-    </div>
   </header>
 
   <main>
