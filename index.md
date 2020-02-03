@@ -16,16 +16,12 @@
     <section id="portfolio" class="portfolio">
         <h2>Portfolio</h2>
           <h3>Software Manual</h3>
-            <p>Target Audience</p>
+            <h4>Target Audience</h4>
           <p>Government Client</p>
-          <p> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<p>
           <h3>Work Instructions</h3>
-            <p class="uppercase">Target Audience</p>
-        </div>
-        <div class="col-wide project-description">
-          <p>Lorem ipsum dolor sit amet,</p>
-          <p> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<p>
-      </div>
+            <h4>Target Audience</h4>
+          <p>Government Client</p>
+          <h3>Work Instructions</h3>
     </section>
   </main>
 <!-- // Footer and Contact Info -->
