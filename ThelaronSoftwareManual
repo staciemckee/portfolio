@@ -1,0 +1,88 @@
+  **Configuration Management Cover Page**   
+  ----------------------------------------- --------------------------
+  Document Number                           SM5912
+  Title                                     Thelaron Software Manual
+  Version                                   1.0
+  Date (MM/DD/YY)                           6/29/18
+  Original Author                           Stacie McKee
+  Last Updated By                           Stacie McKee
+  Classification                            Unclassified
+
+  **Version**   **Description of Change**   **Date**
+  ------------- --------------------------- ----------
+  1.0           Original release            6/29/18
+                                            
+                                            
+                                            
+                                            
+                                            
+
+![](media/image4.png){width="1.9460422134733157in"
+height="1.022988845144357in"}\
+Welcome to Thelaron
+
+Thelaron software is used to control the operation of WGS-84 Satellite
+System (WSS). In Thelaron, your input data is called a *target*. Targets
+are tracked via Thelaron interface with cameras and/or radar.
+
+What You Need to Get Started
+
+Before you start working in Thelaron, you should connect the hardware
+equipment you plan to use, such as a keyboard, joystick controller, and
+camera(s) to your computer. In case you're not sure about a particular
+device, consult the owner's manual or the product website. For more
+information, see [Devices Overview](#_Utility_Mode).
+
+How to Get Help
+
+Quick Help
+
+You can view a brief description of windows, commands, controls, and
+other elements of the Thelaron interface without leaving the application
+or interrupting your workflow.
+
+-   To view Quick Help in the main window, choose Help \> Quick Help or
+    press Shift-Ctrl-H.
+
+    -   Some Quick Help topics include links to more detailed
+        information. You can access the additional information by
+        pressing Ctrl-Backslash (/) while the pointer is over the
+        corresponding control or area.
+
+        Thelaron at a Glance
+
+The Tracking Mode window is where you track your targets. You can access
+all of the major working areas Thelaron in the Tracking Mode window.
+
+![](media/image5.png){width="7.0306911636045495in" height="3.78125in"}
+
+When you open Tracking Mode, the target position appears in the upper
+left corner of the window.
+
+Choose your data source and view warning indicators in the Sub-Modes
+panel in the center left of the window.
+
+View fault status on your camera in the Senor Status panel in the center
+top of the window.
+
+Select your input source and control the data recording with the buttons
+on the right side of the window.
+
+Creating Simple Missions
+
+1.  You start by opening Thelaron and clicking the **VIDEO TRK** button
+    on the main menu
+
+2.  Click the **R1** button to turn off the run switch
+
+3.  Repeat for **R2**, **R3**, and **R4** buttons, if applicable
+
+4.  Click the ENABLE button under Sub-Mode
+
+5.  Click the ENABLE button under Auto Acq
+
+6.  Click applicable Sub-Modes button to choose your data source
+
+7.  Verify target position
+
+![](media/image6.png){width="7.010330271216098in" height="2.71875in"}
