@@ -1,1 +1,1 @@
-Excerpted Technical Writing samples for a Government audience
+I share excerpted, non-confidential samples due to non-disclosure restrictions.
