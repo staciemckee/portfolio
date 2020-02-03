@@ -17,8 +17,7 @@
         <h2>Portfolio</h2>
           <h3>Software Manual</h3>
             <p>Target Audience</p>
-		        </div>
-          <p>Lorem ipsum dolor sit amet,</p>
+          <p>Government Client</p>
           <p> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<p>
           <h3>Work Instructions</h3>
             <p class="uppercase">Target Audience</p>
