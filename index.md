@@ -1,17 +1,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
+	
 <body>
-<!--  // Intro -->
   <header id="about">
     <a href="resume.pdf" class="btn download">Download PDF</a>
-    <nav>
-      <a href="#about">About</a>
-      <a href="#portfolio">Portfolio</a>
-      <a href="#contact">Contact</a>
-    </nav>
       <img class="profile-image" src="images/cptc.jpg" alt="Stacie McKee">
         <h1>Stacie McKee</h1>
         <h2>Technical Writer</h2>
@@ -20,13 +14,10 @@
   <main>
 <!-- // Portfolio -->
     <section id="portfolio" class="portfolio">
-      <div class="content-wrap">
         <h2>Portfolio</h2>
-        <div class="col-narrow">
           <h3>Software Manual</h3>
-            <p class="uppercase">Target Audience</p>
+            <p>Target Audience</p>
 		        </div>
-        <div class="col-wide project-description">
           <p>Lorem ipsum dolor sit amet,</p>
           <p> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<p>
           <h3>Work Instructions</h3>
