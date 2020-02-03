@@ -1,11 +1,16 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+	<style>
+img {
+  width: 100%;
+}
+</style>
 </head>
 	
 <body>
   <header id="about">
-      <img src="images/cptc.jpg" alt="Certified Professional Technical Communicator">
+      <img src="images/cptc.jpg" alt="Certified Professional Technical Communicator" style="width:128px;height:128px;">
         <h1>Stacie McKee</h1>
         <h2>Technical Writer</h2>
   </header>
