@@ -2,8 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- mobile specific metas -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 </head>
 <body>
 <!--  // Intro -->
@@ -14,7 +12,7 @@
       <a href="#portfolio">Portfolio</a>
       <a href="#contact">Contact</a>
     </nav>
-      <img class="profile-image" src="images/moi.jpeg" alt="Stacie McKee">
+      <img class="profile-image" src="images/cptc.jpg" alt="Stacie McKee">
         <h1>Stacie McKee</h1>
         <h2>Technical Writer</h2>
   </header>
