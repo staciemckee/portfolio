@@ -1,4 +1,3 @@
-I share excerpted, non-confidential samples due to non-disclosure restrictions.
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,8 +25,7 @@ I share excerpted, non-confidential samples due to non-disclosure restrictions.
       <div class="col-wide">
         <h1>Stacie McKee</h1>
         <h2>Technical Writer</h2>
-        <p>I share excerpted, non-confidential samples due to non-disclosure restrictions. 
-		</p>
+        <p>I share excerpted, non-confidential samples due to non-disclosure restrictions. </p>
       </div>
     </div>
   </header>
@@ -38,12 +36,10 @@ I share excerpted, non-confidential samples due to non-disclosure restrictions.
       <div class="content-wrap">
         <h2>Portfolio</h2>
         <div class="col-narrow">
-          <h3>Project</h3>
+          <h3>Software Manual</h3>
             <p class="uppercase">Target Audience</p>
-            <p class="uppercase">Project Details</p>
-          <h3>Project</h3>
+          <h3>Work Instructions</h3>
             <p class="uppercase">Target Audience</p>
-            <p class="uppercase">Project Details</p>
         </div>
         <div class="col-wide project-description">
           <p>Lorem ipsum dolor sit amet,</p>
