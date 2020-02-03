@@ -5,8 +5,7 @@
 	
 <body>
   <header id="about">
-    <a href="resume.pdf" class="btn download">Download PDF</a>
-      <img class="profile-image" src="images/cptc.jpg" alt="Stacie McKee">
+      <img src="images/cptc.jpg" alt="Certified Professional Technical Communicator">
         <h1>Stacie McKee</h1>
         <h2>Technical Writer</h2>
   </header>
@@ -16,12 +15,9 @@
     <section id="portfolio" class="portfolio">
         <h2>Portfolio</h2>
           <h3>Software Manual</h3>
-            <h4>Target Audience</h4>
-          <p>Government Client</p>
+          <p>Target Audience: Government Client</p>
           <h3>Work Instructions</h3>
-            <h4>Target Audience</h4>
-          <p>Government Client</p>
-          <h3>Work Instructions</h3>
+          <p>Target Audience: Government Client</p>
     </section>
   </main>
 <!-- // Footer and Contact Info -->
