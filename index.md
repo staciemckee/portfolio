@@ -1,13 +1,7 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
-<!---Kit Code for Icon Fonts--->
-    <script src="https://kit.fontawesome.com/9ccd11bee7.js"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stacie McKee | Portfolio</title>
-    <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab:400,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/styles/styles.css">
 <!-- mobile specific metas -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 </head>
@@ -38,17 +32,16 @@
         <div class="col-narrow">
           <h3>Software Manual</h3>
             <p class="uppercase">Target Audience</p>
+		        </div>
+        <div class="col-wide project-description">
+          <p>Lorem ipsum dolor sit amet,</p>
+          <p> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<p>
           <h3>Work Instructions</h3>
             <p class="uppercase">Target Audience</p>
         </div>
         <div class="col-wide project-description">
           <p>Lorem ipsum dolor sit amet,</p>
           <p> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<p>
-        </div>
-        <div class="col-wide project-description">
-          <p>Lorem ipsum dolor sit amet,</p>
-          <p> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<p>
-        </div>
       </div>
     </section>
   </main>
