@@ -1,16 +1,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-	<style>
-img {
-  width: 100%;
-}
-</style>
 </head>
 	
 <body>
   <header id="about">
-      <img src="images/cptc.jpg" alt="Certified Professional Technical Communicator" style="width:128px;height:128px;">
+      <img src="images/cptc.jpg" alt="Certified Professional Technical Communicator" style="width:100px;height:100px;">
         <h1>Stacie McKee</h1>
         <h2>Technical Writer</h2>
   </header>
@@ -18,10 +13,10 @@ img {
   <main>
 <!-- // Portfolio -->
     <section id="portfolio" class="portfolio">
-        <h2>Portfolio</h2>
-          <h3>Software Manual</h3>
+        <h1>Portfolio</h1>
+          <h2>Software Manual</h2>
           <p>Target Audience: Government Client</p>
-          <h3>Work Instructions</h3>
+          <h2>Work Instructions</h2>
           <p>Target Audience: Government Client</p>
     </section>
   </main>
