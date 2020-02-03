@@ -31,14 +31,9 @@
   </main>
 <!-- // Footer and Contact Info -->
   <footer id="contact" class="footer">
-    <div class="content-wrap">
       <h2>Contact</h2>
-        <div class="contact-info">
           <a href="mailto:stacie.mckee@gmail.com"><i class="fas fa-envelope"></i></a>
           <a href="#" target="https://www.linkedin.com/in/stacie-mckee-5338154a/"><i class="fab fa-linkedin"></i></a>
-        </div>
         <p>Copyright 2019 by Stacie McKee</p>
     </div>
   </footer>
-</body>
-</html>
