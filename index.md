@@ -1,4 +1,4 @@
-<h2><a href="/pdfs/SM5912 Thelaron Software Manual.pdf">Software Manual</a></h2>
+<h2><a href="/pdfs/SM5912 Thelaron Software Manual.pdf" target="_blank">Software Manual</a></h2>
   <p>Target Audience: Government, Specification-Controlled</p>
 <h2><a href="https://journals.plos.org/plosone/s/latex">Submission Guidelines</a></h2>
   <p>Target Audience: Academic, Peer-Reviewed</p>
